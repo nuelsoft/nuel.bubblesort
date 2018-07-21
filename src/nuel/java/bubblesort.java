@@ -1,3 +1,5 @@
+//Author: nuel...
+
 package nuel.java;
 import java.util.Scanner;
 
